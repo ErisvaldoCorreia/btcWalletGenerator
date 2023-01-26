@@ -40,4 +40,15 @@ Carteira gerada
 Endereço: mrdM3WiqfZyVzEdzRZQiKacSJCx4GoHNah
 Chave privada: cNij6cqzsgQUrJcM5A53arW9UrXTLJQnJHEMEpEjYtRfmi7pHjHS
 Seed: regular awful demand coast flock mirror energy aspect weird eternal kidney legal 
+
+
+Segunda carteira gerada para testes
+
+Carteira gerada
+Endereço: msafx6QAbSUEtkZybpSZTendmdzm2uBUE3
+Chave privada: cPtZqeuyPhNnoTZxEpaUNhyqM2rABPruoS5AeQmudGR9VKpkrgrq
+Seed: hello other imitate route cricket small six this employ collect popular embody
+
+faucet para uso testnet
+https://coinfaucet.eu/en/btc-testnet/
 */
